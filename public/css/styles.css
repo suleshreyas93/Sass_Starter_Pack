@@ -1,0 +1,25 @@
+.card-text {
+  font-size: 16pt; }
+
+.card {
+  margin: 10px; }
+
+.card-block {
+  padding: 8px; }
+
+#sub-title {
+  color: #008295; }
+
+#nav-list {
+  padding: 8px; }
+
+a {
+  color: #ac0800; }
+
+button {
+  margin: 12px;
+  background-color: #008295;
+  color: white; }
+
+#section-header {
+  padding: 8px; }

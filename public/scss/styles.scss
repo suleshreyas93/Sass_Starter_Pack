@@ -1,0 +1,36 @@
+@import "myVariables";
+
+
+.card-text{
+    font-size: $card-text-size;
+}
+
+.card{
+    margin: 10px;
+}
+
+.card-block{
+    padding: $padding;
+}
+
+#sub-title{
+    color: $sub-title-font-color;
+}
+
+#nav-list{
+    padding: $padding;
+}
+
+a{
+    color: $link-color;
+}
+
+button{
+    margin: $card-button-margin;
+    background-color: $sub-title-font-color;
+    color: white;
+}
+
+#section-header{
+    padding: $padding;
+}
